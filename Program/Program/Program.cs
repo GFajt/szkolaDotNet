@@ -7,7 +7,7 @@ namespace Program
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Nazywam się Grzegorz Fajt");
+            Console.WriteLine("Nazywam się Greg Fajt");
         }
     }
 }
